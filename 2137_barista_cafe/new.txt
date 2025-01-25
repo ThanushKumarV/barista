@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hai I am thanush kumar and I am learning git and git hub
+=======
+hai I am thanush kumar and I am learning git
+>>>>>>> 1d4fb0af306644e79dabf899a631d009ba136090
